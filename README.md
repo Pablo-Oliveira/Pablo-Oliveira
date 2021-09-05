@@ -1,4 +1,4 @@
-### Primeiros passos 👋
+### Pronto para ir mais longe 👋
 
 
 - 🔭 Atualmente trabalho em meu site portfólio.
