@@ -2,7 +2,7 @@
 
 --------------------------
 - 🔭 Atualmente atualizando meus conhecimentos em Cloud Computer e DEVOPS.
-- 🌱 IA, Machine Learning, Chat Bot fazem parte do meu currículo.
+- 🌱 Engenharia DevOps e Chat Bot fazem parte do meu currículo.
 - 🤔 Trilhando meu caminho de estudos para ser Arquiteto de Soluções, DEVOPS e cursando Engenharia de Software.
 
 --------------------------
